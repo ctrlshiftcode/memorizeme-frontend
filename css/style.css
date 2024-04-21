@@ -25,7 +25,6 @@ body {
 
 .card .front {
     backface-visibility: hidden;
-    background-color: red;
 
     height: 100%;
     width: 100%;
